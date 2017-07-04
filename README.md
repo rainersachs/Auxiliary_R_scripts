@@ -1,2 +1,2 @@
 # NASAmouse
-Theory for NSRL experiments
+#Customized software for analyzing simulated ionizing radiation effects in space. Concerns tumorigenesis in murine Harderian Glands (HG) or other mouse sites induced by irradiation at the National Space Research Laboratory (NSRL) accelerator. Also includes scripts for other human cancer surrogate endpoints such as mouse chromosome aberrations. Emphasizes models for 1-ion beam effects and mathematical synergy calculations for simulated mixed Galactic Cosmic Ray (GCR) beam effects.  The model is still under construction.
