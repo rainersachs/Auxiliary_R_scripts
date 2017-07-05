@@ -1,4 +1,4 @@
-#Free, open-source software under GNU GPLv3. It comes with no warranty. It concerns radiogenic mouse HG tumorigenesis
+#Free, open-source software under (very lenient) GNU GPLv3 license. Comes with no warranty. Concerns radiogenic mouse HG tumorigenesis
 #Written by Mark Ebert, Edward Huang, and Ray Sachs, summer 2017.
 #Relevant references and their abbreviations in commenting this script are the following.
 #".93Alp"=Alpen et al. "Tumorigenic potential of high-Z, high-LET charged-particle radiations." Rad Res 136:382-391 (1993)
