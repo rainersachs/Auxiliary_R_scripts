@@ -4,7 +4,7 @@
 #This script concerns synergy analysis of mixtures whose component IDER are LQ with generalized Lea-Catcheside dose protraction functional.  
 #Written by Jian Gao in 2017; tested and modified by Rainer Sachs and Julien Yu.
 ########################
-library(deSolve)
+library(deSolve)#package for solving differential equations
 rm(list=ls())
 R=0.5#total mixture dose-rate here taken as 50 cGy per week
 lambda=0.05#this repair rate is assumed determined by target biology, and is the same for both ions
