@@ -1,5 +1,7 @@
-#Cost-free, open-source software under the (lenient) GNU GPLv3 license. Comes with no warraty. Concerns radiogenic mouse HG tumorigenesis
+#Cost-free, open-source software under the (lenient) GNU GPLv3 license. Comes with no warranty. Concerns radiogenic mouse HG tumorigenesis
 #Written by Mark Ebert, Edward Huang, and Rainer Sachs, summer 2017.
+#Scientists can download, use, and modify the software to test robustness of theory conclusions drawn in NASA grants for which Rainer Sachs consults.
+#Only fully transparent interactions can lead to a fact-based consensus among different theoretical modeling groups.
 #Relevant references and their abbreviations in commenting this script are the following.
 #".93Alp"=Alpen et al. "Tumorigenic potential of high-Z, high-LET charged-particle radiations." Rad Res 136:382-391 (1993)
 #".94Alp"=Alpen et al. "Fluence-based relative biological effectiveness for charged particle carcinogenesis in mouse Harderian gland." Adv Space Res 14(10): 573-581. (1994).  
