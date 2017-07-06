@@ -1,7 +1,9 @@
-#This is cost-free, open-source software under the (lenient) GNU GPLv3 license. It comes with no warranty
-#Scientists can download, use, and modify this software to test robustness of theory conclusions drawn in NASA grants for which Rainer Sachs consults:
-#Only fully transparent interactions can lead to a fact-based consensus among different theoretical modeling groups. 
-#This script concerns synergy analysis of mixtures whose component IDER are LQ with generalized Lea-Catcheside dose protraction functional.  
+#This is cost-free, open-source software under the GNU GPLv3 license. It comes with no warranty.
+#Scientists can download, use, and modify this software freely to test robustness of theory conclusions.
+#Only such fully transparent interactions can lead to a fact-based consensus among different theoretical modeling groups. 
+#This script concerns synergy analysis of mixtures whose component IDER are modified linear-quadratic (LQ). 
+#Modification uses generalized Lea-Catcheside dose protraction functional when exposure is not acute.
+#Modification works for chronic low dose-rates constant or variable in time, or for fractionation or for any combination.  
 #Written by Jian Gao in 2017; tested and modified by Rainer Sachs and Julien Yu.
 ########################
 library(deSolve)#package for solving differential equations
